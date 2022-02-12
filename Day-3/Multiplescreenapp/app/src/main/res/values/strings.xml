@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Multiple screen app</string>
+    <string name="multiple_screens">Screen 1!</string>
+    <string name="button_1">To Screen 1</string>
+    <string name="button_2">To Screen 2</string>
+    <string name="button_3">To Screen 3</string>
+    <string name="todo">TODO</string>
+    <string name="screen_2">This is Screen 2</string>
+    <string name="this_is_screen_3">This is screen 3</string>
+    <string name="to_screen_1">to screen 1</string>
+    <string name="to_screen_2">to screen 2</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Congrulation</string>
+    <string name="this_is_a_dice_roller_app">Click this button for surprise message!</string>
+    <string name="roll">Click</string>
+    <string name="this_is_the_seond_screen">This is the second screen</string>
+    <string name="textview">TextView</string>
+    <string name="this_is_the_second_screen">Happy Birthday!</string>
+</resources>
